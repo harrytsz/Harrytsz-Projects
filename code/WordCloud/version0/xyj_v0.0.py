@@ -1,4 +1,4 @@
-# 《西游记》词云 - version 0.0 英文模板
+# WordCloud - version 0.0 English Templates
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt 
 
