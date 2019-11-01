@@ -1,4 +1,4 @@
-# WordCloud - version 0.0 English Templates
+# WordCloud - version 0 English Templates
 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt 
